@@ -1,0 +1,54 @@
+﻿{
+  "GamepadName": "Speedlink Gamepad",
+
+  // Buttons are located in InputReport[11]
+  "ButtonMapping":
+		   [
+        {
+          "inputReportIndex": 11,
+          "inputReportMask": 1,
+          "button": "A"
+        },
+
+        {
+          "inputReportIndex": 11,
+          "inputReportMask": 2,
+          "button": "B"
+        },
+        {
+          "inputReportIndex": 11,
+          "inputReportMask": 4,
+          "button": "X"
+        },
+
+        {
+          "inputReportIndex": 11,
+          "inputReportMask": 8,
+          "button": "Y"
+        },
+
+        {
+          "inputReportIndex": 11,
+          "inputReportMask": 16,
+          "button": "L"
+        },
+
+        {
+          "inputReportIndex": 11,
+          "inputReportMask": 32,
+          "button": "R"
+        },
+
+        {
+          "inputReportIndex": 11,
+          "inputReportMask": 64,
+          "button": "Select"
+        },
+
+        {
+          "inputReportIndex": 11,
+          "inputReportMask": 128,
+          "button": "Start"
+        }
+		  ]
+}

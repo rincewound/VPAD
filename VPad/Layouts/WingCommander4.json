@@ -1,0 +1,27 @@
+﻿{
+  "targetWindowName": "DosBox",
+  "keyMapping": 
+  {
+
+    // Lock Target
+    "X": 76,
+    // Launch missile
+    "Y": 13,
+
+    // Fire Guns
+    "A": 32,
+
+    // Not used yet.
+    //"B": 65,
+
+    // Cycle Targets
+    "L": 84,
+
+    // Not used yet.
+    //"R": 65,
+
+    // Dont use those two ... yet
+    //"Start": 65,
+    //"Select": 65
+  }
+}
